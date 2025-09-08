@@ -1,1 +1,14 @@
-/* Add CSS Styling */
+
+
+.click {
+    font-size: 28px;
+    font-family: Helvetica, 'Times new Roman' , sans-serif;
+}
+.Firstclick {
+    background-color: black;
+    color: white;
+}
+.secondclick {
+    color: black;
+    background-color: yellow;
+}
